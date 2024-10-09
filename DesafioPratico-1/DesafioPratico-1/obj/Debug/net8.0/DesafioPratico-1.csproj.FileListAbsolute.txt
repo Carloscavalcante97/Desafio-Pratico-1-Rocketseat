@@ -1,0 +1,14 @@
+C:\Users\carlo\source\repos\DesafioPratico-1\DesafioPratico-1\bin\Debug\net8.0\DesafioPratico-1.exe
+C:\Users\carlo\source\repos\DesafioPratico-1\DesafioPratico-1\bin\Debug\net8.0\DesafioPratico-1.deps.json
+C:\Users\carlo\source\repos\DesafioPratico-1\DesafioPratico-1\bin\Debug\net8.0\DesafioPratico-1.runtimeconfig.json
+C:\Users\carlo\source\repos\DesafioPratico-1\DesafioPratico-1\bin\Debug\net8.0\DesafioPratico-1.dll
+C:\Users\carlo\source\repos\DesafioPratico-1\DesafioPratico-1\bin\Debug\net8.0\DesafioPratico-1.pdb
+C:\Users\carlo\source\repos\DesafioPratico-1\DesafioPratico-1\obj\Debug\net8.0\DesafioPratico-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\source\repos\DesafioPratico-1\DesafioPratico-1\obj\Debug\net8.0\DesafioPratico-1.AssemblyInfoInputs.cache
+C:\Users\carlo\source\repos\DesafioPratico-1\DesafioPratico-1\obj\Debug\net8.0\DesafioPratico-1.AssemblyInfo.cs
+C:\Users\carlo\source\repos\DesafioPratico-1\DesafioPratico-1\obj\Debug\net8.0\DesafioPratico-1.csproj.CoreCompileInputs.cache
+C:\Users\carlo\source\repos\DesafioPratico-1\DesafioPratico-1\obj\Debug\net8.0\DesafioPratico-1.dll
+C:\Users\carlo\source\repos\DesafioPratico-1\DesafioPratico-1\obj\Debug\net8.0\refint\DesafioPratico-1.dll
+C:\Users\carlo\source\repos\DesafioPratico-1\DesafioPratico-1\obj\Debug\net8.0\DesafioPratico-1.pdb
+C:\Users\carlo\source\repos\DesafioPratico-1\DesafioPratico-1\obj\Debug\net8.0\DesafioPratico-1.genruntimeconfig.cache
+C:\Users\carlo\source\repos\DesafioPratico-1\DesafioPratico-1\obj\Debug\net8.0\ref\DesafioPratico-1.dll
